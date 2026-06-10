@@ -44,5 +44,4 @@ To simulate a half wave rectifier circuit and compare the outputs with and witho
 
 ## RESULT:
 
-![WhatsApp Image 2025-11-29 at 10 54 40_0b014b55](https://github.com/user-attachments/assets/835db19c-16ff-4e38-b708-b2a2fa07ac50)
-
+<img width="1599" height="899" alt="WhatsApp Image 2026-06-10 at 10 16 25 PM" src="https://github.com/user-attachments/assets/c2840bd9-403e-4c31-bfe2-de4c1d4f58e4" />
